@@ -1,7 +1,5 @@
-<!-- Banner -->
-<h1 align="center">🚀 Ashish Singh — Software Developer | Cloud & ML Engineer</h1>
 <p align="center">
-  <em>Building intelligent, serverless, and scalable systems on the cloud</em>
+  <img src="https://github.com/Ashish73653/Ashish73653/blob/main/GitAbout.png" alt="Ashish Singh Banner" width="50%" />
 </p>
 
 ---
@@ -15,6 +13,26 @@ I love designing **scalable cloud systems**, **analytics pipelines**, and **AI-p
 
 📍 Chandigarh, India  
 📧 **as4797singh@gmail.com**
+
+---
+## 📊 GitHub Stats
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ashish73653&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- GitHub Profile Summary -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashish73653&theme=tokyonight" />
+</p>
+
+<!-- GitHub Language Breakdown -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashish73653&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashish73653&theme=tokyonight" />
+</p>
+
 
 ---
 
@@ -74,27 +92,6 @@ VS Code · Eclipse · Linux (Ubuntu)
 - Stored analytics in DynamoDB/S3  
 - QuickSight dashboard for insights
 - 💻 Repository: https://github.com/Ashish73653/Sentiment-Insights.git
-
----
-
-## 📊 GitHub Stats
-
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ashish73653&theme=tokyonight&hide_border=true" />
-</p>
-
-<!-- GitHub Profile Summary -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashish73653&theme=tokyonight" />
-</p>
-
-<!-- GitHub Language Breakdown -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashish73653&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashish73653&theme=tokyonight" />
-</p>
-
 
 ---
 
