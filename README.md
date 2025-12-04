@@ -1,56 +1,109 @@
-![Untitled](https://user-images.githubusercontent.com/65036327/122829259-699a9380-d304-11eb-85c2-9d61f908039d.jpg)
-
-
-<h2> Hey there! I'm Ashish Singh.</h2>
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and keeping myself updated to survive in this harsh world.
-- 🎓 &nbsp; Studying Computer Science Engineering at <a href="http://www.cecmohali.org/">CEC</a>.
-- 💼 &nbsp; Not working yet.
-- 🌱 &nbsp; Currently learning javascript , react js , DSA.
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-
-<br/>
-
-<a href="https://github.com/Learner4797">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashish73653&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish73653&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
+<!-- Banner -->
+<h1 align="center">🚀 Ashish Singh — Software Developer | Cloud & ML Engineer</h1>
 <p align="center">
-<a href="https://learner4797.github.io/MyPortfolio/index.html"><img alt="Website" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/ashish-singh-1771091a5/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/ash1sh_1hakur10/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <em>Building intelligent, serverless, and scalable systems on the cloud</em>
 </p>
 
-⭐️ From [Learner4797](https://github.com/Ashish73653)
+---
+
+## 👋 About Me
+
+I’m a **Software Developer & Cloud/ML Engineer** specializing in **AWS serverless architecture**,  
+**machine learning workflows**, and **full-stack development**.  
+
+I love designing **scalable cloud systems**, **analytics pipelines**, and **AI-powered applications**.
+
+📍 Chandigarh, India  
+📧 **as4797singh@gmail.com**
+
+---
+
+## 🧑‍💼 Professional Experience
+
+### **☁️ Cloud & AI Intern — Virtusa**  
+*(Aug 2025 – Nov 2025 | Remote)*  
+- Built a **complete AWS serverless NLP pipeline** for automated review processing.  
+- Used **Lambda, DynamoDB, S3, SageMaker, Comprehend, Athena, QuickSight**.  
+- Designed **low-cost analytics architecture** with optimized DynamoDB + S3 partitioning.  
+- Deployed **HuggingFace summarization model** on SageMaker.  
+
+---
+
+### **🔧 Student Intern — Nokia Networks**  
+*(Sep 2022 – Jul 2023 | Bengaluru)*  
+- Worked on **TR-069 and SNMP-based device management** testing.  
+- Executed **40+ functional, regression, black-box test cases**.  
+- Automated testing flows using **Shell scripts, SOAP UI, REST APIs**.  
+
+---
+
+## 🛠 Skills & Technologies
+
+### **Languages**
+Java · JavaScript · Python · MySQL
+
+### **Frontend**
+HTML · CSS · React · Bootstrap
+
+### **Backend / Cloud**
+Node.js · AWS Lambda · API Gateway · DynamoDB · S3 · CloudFormation · EventBridge · CloudWatch · Cognito
+
+### **Machine Learning & NLP**
+SageMaker · Comprehend · Feature engineering · ML deployment · Serverless ML pipelines
+
+### **DevOps & Tools**
+Git · GitHub Actions · Docker · Postman · SOAP UI  
+VS Code · Eclipse · Linux (Ubuntu)
+
+---
+
+## 🚀 Projects
+
+### **1️⃣ Full-Stack AWS Expense Tracker — React + Serverless + AI**
+- AI-powered spending predictions (**95% accuracy**)  
+- <200ms API latency using Lambda  
+- Real-time analytics + exportable reports  
+- Cognito authentication + DynamoDB backend
+- 💻 Repository: https://github.com/Ashish73653/Expense-Tracker.git
+
+---
+
+### **2️⃣ Sentiment Insights — Serverless Review Summarization**
+- Daily automated summarization pipeline using  
+  **Lambda + Comprehend + SageMaker**  
+- Stored analytics in DynamoDB/S3  
+- QuickSight dashboard for insights
+- 💻 Repository: https://github.com/Ashish73653/Sentiment-Insights.git
+
+---
+
+## 📊 GitHub Stats
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ashish73653&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- GitHub Profile Summary -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashish73653&theme=tokyonight" />
+</p>
+
+<!-- GitHub Language Breakdown -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashish73653&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashish73653&theme=tokyonight" />
+</p>
 
 
-https://user-images.githubusercontent.com/65036327/122947839-1540f380-d398-11eb-9856-4bf23e804b08.mp4
+---
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Ashish73653"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ashish-singh-1771091a5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:as4797singh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
